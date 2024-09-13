@@ -1,3 +1,5 @@
+This whole project was scraped back together from about a year ago since the orignial repo was deleted. This project is unfinished as of september 2024.
+
 # EcommerceSite
 HTML Lads Ecommerce Site for CSCD 378
 
